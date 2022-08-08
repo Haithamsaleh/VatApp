@@ -6,4 +6,8 @@
     <string name="_15">15%</string>
     <string name="_20">20%</string>
     <string name="round_up_total">Round Up Total</string>
+    <string name="totals"> Total : %s</string>
+    <string name="vats">VAT : %s</string>
+    <string name="cost">Cost : %s</string>
+
 </resources>

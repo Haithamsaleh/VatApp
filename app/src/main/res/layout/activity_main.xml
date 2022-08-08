@@ -100,14 +100,14 @@ android:text="Cost :"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:text="VAT :"
+        android:text="VAT"
         />
     <TextView
         android:id="@+id/txt_total"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="16dp"
-        android:text="Total :"
+        android:text="total"
         />
   </LinearLayout>
 
